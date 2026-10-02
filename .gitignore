@@ -1,0 +1,16 @@
+# Word
+~$*.docx
+~$*.doc
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# 1C
+*.cf
+*.epf
+*.erf
